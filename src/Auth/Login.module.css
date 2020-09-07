@@ -1,0 +1,50 @@
+body {
+    background: #dddddd;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.login_holder {
+    position: absolute;
+    padding: 35px;
+    left: 0;
+    right: 0;
+    top: 25%;
+    width: 400px;
+    margin: auto;
+    background: white;
+    border-radius: 10px;
+    filter: drop-shadow(2px 4px 6px rgba(126, 126, 126, 0.541));
+}
+
+.login_holder input {
+    display: block;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #dddd;
+    width: 90%;
+    height: 40px;
+    padding: 7px 15px;
+}
+
+.login_holder button {
+    width: 200px;
+    margin: 0 auto;
+    display: block;
+    height: 40px;
+    background: #ac3628;
+    border: none;
+    color: white;
+    font-weight: 900;
+    font-size: 17px;
+    border-radius: 10px;
+}
+.login_head{
+    color: black;
+    font-weight: bold;
+    font-size:25px;
+}
+.title{
+    color: black;
+    font-size:15px;
+}

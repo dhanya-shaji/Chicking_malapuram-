@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0594cc1f.chunk.css",
+    "main.js": "./static/js/main.c3800eb1.chunk.js",
+    "main.js.map": "./static/js/main.c3800eb1.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c118a105.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c118a105.js.map",
+    "static/css/2.8462b5f9.chunk.css": "./static/css/2.8462b5f9.chunk.css",
+    "static/js/2.2ec52258.chunk.js": "./static/js/2.2ec52258.chunk.js",
+    "static/js/2.2ec52258.chunk.js.map": "./static/js/2.2ec52258.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.6e9ef2b33b6883384696a66c5b553278.js": "./precache-manifest.6e9ef2b33b6883384696a66c5b553278.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.8462b5f9.chunk.css.map": "./static/css/2.8462b5f9.chunk.css.map",
+    "static/css/main.0594cc1f.chunk.css.map": "./static/css/main.0594cc1f.chunk.css.map",
+    "static/js/2.2ec52258.chunk.js.LICENSE.txt": "./static/js/2.2ec52258.chunk.js.LICENSE.txt",
+    "static/media/ayo-ogunseinde-2.jpg": "./static/media/ayo-ogunseinde-2.bfc688ca.jpg",
+    "static/media/clem-onojeghuo-2.jpg": "./static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
+    "static/media/damir-bosnjak.jpg": "./static/media/damir-bosnjak.a6f24e7d.jpg",
+    "static/media/joe-gardner-2.jpg": "./static/media/joe-gardner-2.76ff47ae.jpg",
+    "static/media/logo.png": "./static/media/logo.6493eaa3.png",
+    "static/media/mike.jpg": "./static/media/mike.aab414f7.jpg",
+    "static/media/paper-dashboard.scss?v=1.2.0": "./static/media/nucleo-icons.f32ed5ad.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c118a105.js",
+    "static/css/2.8462b5f9.chunk.css",
+    "static/js/2.2ec52258.chunk.js",
+    "static/css/main.0594cc1f.chunk.css",
+    "static/js/main.c3800eb1.chunk.js"
+  ]
+}

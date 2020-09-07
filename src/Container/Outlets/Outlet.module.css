@@ -1,0 +1,13 @@
+label{
+    display: block;
+}
+.inputbox{
+    display: block;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #dddd;
+    width: 90%;
+    height: 40px;
+    padding: 7px 15px;
+}
